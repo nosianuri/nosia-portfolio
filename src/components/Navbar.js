@@ -23,6 +23,7 @@ import {
     ContactMail
 } from '@material-ui/icons';
 import avatar from "../assets/avatar.png";
+import Footer from './Footer';
 
 
 // CSS STYLES
@@ -106,6 +107,7 @@ const Navbar = () => {
                         </Typography>
                         <MobileRightMenuSlider anchor='right' open={state.right} onClose={toggleSlider("right", false)}>
                             {sideList("right")}
+                            <Footer />
                         </MobileRightMenuSlider>
                     </Toolbar>
                 </AppBar>
