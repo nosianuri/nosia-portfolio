@@ -28,16 +28,19 @@ const Footer = () => {
         <BottomNavigationAction
         className={classes.root}
         style={{padding: 0}}
+        href="https://www.facebook.com/nosia.nuri.54/"
         icon={<Facebook />}
          />
         <BottomNavigationAction
         className={classes.root}
         style={{padding: 0}}
+        href="https://twitter.com/NosiaAkter"
         icon={<Twitter />}
          />
         <BottomNavigationAction
         className={classes.root}
         style={{padding: 0}}
+        href="https://www.instagram.com/nosianuri/"
         icon={<Instagram />}
          />
     </BottomNavigation>

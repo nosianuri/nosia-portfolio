@@ -40,25 +40,26 @@ function Portfolio() {
                         <CardActionArea>
                             <CardMedia
                                 component="img"
-                                alt='Project 2'
+                                alt='Project 1'
                                 height="140"
-                                image={project2}
+                                image={project1}
                             />
                             <CardContent>
                                 <Typography gutterBottom variant="h5">
-                                    Project 2
+                                   ZOOMLA
                                 </Typography>
                                 <Typography variant="body2" color='textSecondary' component="p">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio laborum fugit libero ullam eveniet. Nam dolor atque laboriosam eveniet eius?
+                                Implemented wonderful video conference and realtime video and chat application site with React. Added user information for helping to chat each other easily. Applied meeting schedule for making any specific meeting time.
+
                                 </Typography>
                             </CardContent>
                             </CardActionArea>
                             <CardActions>
                                 <Button size='small' color='primary'>
-                                    Share
+                                    Github
                                 </Button>
-                                <Button size='small' color='primary'>
-                                    Live Demo
+                                <Button size='small' color='primary' href="https://zoomla.vercel.app/">
+                                Live Demo
                                 </Button>
                             </CardActions>
                         
@@ -70,24 +71,24 @@ function Portfolio() {
                         <CardActionArea>
                             <CardMedia
                                 component="img"
-                                alt='Project 1'
+                                alt='Project 2'
                                 height="140"
-                                image={project1}
+                                image={project2}
                             />
                             <CardContent>
                                 <Typography gutterBottom variant="h5">
-                                    Project 1
+                                    TRAVEL GURU
                                 </Typography>
                                 <Typography variant="body2" color='textSecondary' component="p">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio laborum fugit libero ullam eveniet. Nam dolor atque laboriosam eveniet eius?
+                                Implemented wonderful travel site with React.Added Guider information for helping tour and safety. Applied map to find location or interesting place.
                                 </Typography>
                             </CardContent>
                             </CardActionArea>
                             <CardActions>
                                 <Button size='small' color='primary'>
-                                    Share
+                                Github
                                 </Button>
-                                <Button size='small' color='primary'>
+                                <Button size='small' color='primary' href="https://travel-master-c95cb.web.app/">
                                     Live Demo
                                 </Button>
                             </CardActions>
@@ -106,18 +107,18 @@ function Portfolio() {
                             />
                             <CardContent>
                                 <Typography gutterBottom variant="h5">
-                                    Project 3
+                                    GYMCLUB
                                 </Typography>
                                 <Typography variant="body2" color='textSecondary' component="p">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio laborum fugit libero ullam eveniet. Nam dolor atque laboriosam eveniet eius?
+                                I've collected the best examples of gym websites, web design concepts and ideas.Best gym website freelance services online. Outsource the gym website project and get it quickly done and delivered remotely online.
                                 </Typography>
                             </CardContent>
                             </CardActionArea>
                             <CardActions>
                                 <Button size='small' color='primary'>
-                                    Share
+                                Github
                                 </Button>
-                                <Button size='small' color='primary'>
+                                <Button size='small' color='primary' href="https://fitness-club-4ecbc.web.app/">
                                     Live Demo
                                 </Button>
                             </CardActions>
@@ -136,18 +137,18 @@ function Portfolio() {
                             />
                             <CardContent>
                                 <Typography gutterBottom variant="h5">
-                                    Project 4
+                                    PRADA
                                 </Typography>
                                 <Typography variant="body2" color='textSecondary' component="p">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio laborum fugit libero ullam eveniet. Nam dolor atque laboriosam eveniet eius?
+                                These website is implement with HTML, CSS & JavaScript code. It's a wonderful online selling platform. All products are custom with their catagories. 
                                 </Typography>
                             </CardContent>
                             </CardActionArea>
                             <CardActions>
                                 <Button size='small' color='primary'>
-                                    Share
+                                Github
                                 </Button>
-                                <Button size='small' color='primary'>
+                                <Button size='small' color='primary' href="https://prada-shop-3xlq.vercel.app/">
                                     Live Demo
                                 </Button>
                             </CardActions>

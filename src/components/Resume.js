@@ -119,10 +119,10 @@ function Resume() {
                             web design
                         </Typography>
                         <Typography variant='body1' align='center' style={{color: "tomato"}}>
-                            Company Name Where you worked
+                            From - Udacity
                         </Typography>
                         <Typography variant='subtitle1' align='center' style={{color: "tan"}}>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem delectus quia nisi, possimus officiis obcaecati hic at blanditiis provident explicabo?
+                        As a web designer i have enough knowledge on visual design,UX,graphic design,web design software,HTML and CSS.
                         </Typography>
                     </Box>
                     <Typography variant='h2' className={`${classes.timeLineYear} ${classes.timeLineItem}`}>2020</Typography>
@@ -131,10 +131,10 @@ function Resume() {
                         html & css
                         </Typography>
                         <Typography variant='body1' align='center' style={{color: "tomato"}}>
-                            Company Name Where you worked
+                            From - Coursera
                         </Typography>
                         <Typography variant='subtitle1' align='center' style={{color: "tan"}}>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem delectus quia nisi, possimus officiis obcaecati hic at blanditiis provident explicabo?
+                        HTML and CSS are two basic building blocks which every beginner’s coding journey in frontend starts with these.
                         </Typography>
                     </Box>
                     <Typography variant='h2' className={`${classes.timeLineYear} ${classes.timeLineItem}`}>2021</Typography>
@@ -143,10 +143,10 @@ function Resume() {
                             javascript full stack
                         </Typography>
                         <Typography variant='body1' align='center' style={{color: "tomato"}}>
-                            Company Name Where worked
+                        From - Coursera
                         </Typography>
                         <Typography variant='subtitle1' align='center' style={{color: "tan"}}>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem delectus quia nisi, possimus officiis obcaecati hic at blanditiis provident explicabo?
+                        JavaScript is an awesome programming language, with a lot of use cases and potentiality.JavaScript full stack development offers an easy, cost and time saving solution for crafting robust websites.
                         </Typography>
                     </Box>
                     <Typography variant='h2' className={`${classes.timeLineYear} ${classes.timeLineItem}`}>2022</Typography>
@@ -155,10 +155,10 @@ function Resume() {
                             react | redux
                         </Typography>
                         <Typography variant='body1' align='center' style={{color: "tomato"}}>
-                            Company Name Where worked
+                        From - Programming Hero
                         </Typography>
                         <Typography variant='subtitle1' align='center' style={{color: "tan"}}>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem delectus quia nisi, possimus officiis obcaecati hic at blanditiis provident explicabo?
+                        React Redux is the official React binding for Redux. It allows React components to read data from a Redux Store, and dispatch Actions to the Store to update data. Redux helps apps to scale by providing a sensible way to manage state through a unidirectional data flow model.
                         </Typography>
                     </Box>
                     <Typography variant='h2' className={`${classes.timeLineYear} ${classes.timeLineItem}`}> 2021 - 2022 </Typography>
@@ -167,10 +167,10 @@ function Resume() {
                             mern stack
                         </Typography>
                         <Typography variant='body1' align='center' style={{color: "tomato"}}>
-                            Company Name Where worked
+                        From - Programming Hero
                         </Typography>
                         <Typography variant='subtitle1' align='center' style={{color: "tan"}}>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem delectus quia nisi, possimus officiis obcaecati hic at blanditiis provident explicabo?
+                        MERN Stack is a technology that is a user-friendly full-stack JavaScript framework for building applications and dynamic websites. MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack. 
                         </Typography>
                     </Box>
                     
